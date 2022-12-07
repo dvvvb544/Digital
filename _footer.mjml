@@ -1,0 +1,112 @@
+<mjml>
+<mj-head>
+    <mj-style inline="inline">
+        .footer__link div {
+          padding: 10px 20px !important;
+          font-size: 14px !important;
+          line-height: 15px !important;
+          color: #393D47 !important;
+        }
+      </mj-style>
+</mj-head>
+<mj-body>
+        
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="25px" />
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="5px 0 25px">
+        
+        <mj-column>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7471/Logo_black_top.png" 
+                alt="logo image"
+                align="left"
+                width="85px" 
+                padding="5px 15px"  />
+            <mj-text
+                mj-class="fs14 black_2"
+                padding="10px 20px"
+                line-height="28px"
+            >Lorem ipsum dolor sit amet, consectetuer adipiscing elit,</mj-text>
+        </mj-column>
+
+        <mj-column>
+            <mj-text
+                mj-class="bold black"
+                padding="10px 20px"
+                font-size="18px"
+                line-height="32px"
+            >
+                Links
+            </mj-text>
+            <mj-text css-class="footer__link">Product Categories</mj-text>
+            <mj-text css-class="footer__link">
+                Stores
+            </mj-text>
+            <mj-text css-class="footer__link">
+                Webshop
+            </mj-text>
+            <mj-text css-class="footer__link">
+                Unsubscribe
+            </mj-text>        
+        </mj-column>
+
+        <mj-column>
+            <mj-text
+                mj-class="bold black"
+                padding="10px 20px"
+                font-size="18px"
+                line-height="32px"
+            >
+                Contact
+            </mj-text>
+            <mj-text css-class="footer__link">
+                Info@company.com
+            </mj-text>
+            <mj-text css-class="footer__link">
+                Help Center
+            </mj-text>
+            <mj-social padding="10px" align="left">
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/facebook@2x.png"
+                    href="#"
+                    padding-right="20px"
+                    icon-size="32px"                
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/twitter@2x.png"
+                    href="#"
+                    padding-right="20px"
+                    icon-size="32px"
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/linkedin@2x.png"
+                    href="#"
+                    padding-right="20px"
+                    icon-size="32px"
+                ></mj-social-element>
+                <mj-social-element 
+                    src="https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-dark-gray/instagram@2x.png"
+                    href="#"
+                    padding-right="20px"
+                    icon-size="32px"
+                ></mj-social-element>
+            </mj-social>
+        </mj-column>
+        
+    </mj-section>
+
+    <mj-section
+        full-width="full-width"
+        background-color="#5046c7"
+    >
+        <mj-column>
+            <mj-spacer height="45px" />
+        </mj-column>
+    </mj-section>
+</mj-body>
+</mjml>

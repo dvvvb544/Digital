@@ -1,0 +1,45 @@
+<mjml>
+
+  <mj-head>
+
+    <mj-attributes>
+      <mj-title>Digital</mj-title>
+      
+      <mj-text color="#000000" />
+
+      <mj-class name="center" align="center" />
+
+      <mj-class name="black" color="#000000" />
+      <mj-class name="black_2" color="#393D47" />
+      <mj-class name="white" color="#FFFFFF" />
+      <mj-class name="bg_blue" background-color="#5046C7" />
+      
+      <mj-all font-family="Arial" padding="0" />
+
+    </mj-attributes>
+
+  </mj-head>
+
+  <mj-body width="650px">
+    
+    <mj-include path="./_header.mjml" />
+    <mj-include path="./_results.mjml" />
+    <mj-include path="./_insta_1.mjml" />
+    <mj-include path="./_media.mjml" />
+    <mj-include path="./_insta_2.mjml" />
+    <mj-include path="./_footer.mjml" />
+    
+
+
+
+    <mj-section
+      full-width="full-width"
+      background-color="#F6F6FC"
+    >
+      <mj-column>
+        <mj-spacer height="40px" />
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

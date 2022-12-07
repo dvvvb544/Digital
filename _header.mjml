@@ -1,0 +1,38 @@
+<mj-wrapper 
+    full-width="full-width"
+    background-color="#F6F6FC"
+>
+    <mj-section>
+        <mj-column padding-top="5px">
+            <mj-spacer height="45px" />
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7471/Logo_black_top.png" 
+                alt="Logo image"
+                width="85px" />
+            <mj-text
+                mj-class="black bold center"
+                padding="15px"
+                font-size="38px"
+                line-height="50px"
+            >Building Digital Products, Brands Experience</mj-text>
+            <mj-text
+                mj-class="black_2 center"
+                padding="10px"
+                font-size="16px"
+                line-height="25px"
+            >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</mj-text>
+            <mj-button
+                mj-class="bg_blue white"
+                padding="5px"
+                inner-padding="10px 20px"
+                border-radius="5px"
+                font-size="16px"
+                line-height="25px"
+            >Follow Us Now</mj-button>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7471/Feedback.png" 
+                alt="image"
+                padding="5px" />
+        </mj-column>    
+    </mj-section>
+</mj-wrapper>

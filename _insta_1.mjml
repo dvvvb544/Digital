@@ -1,0 +1,58 @@
+<mj-wrapper 
+    full-width="full-width"
+    background-color="#0F1221"
+>
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="40px" />
+            <mj-text
+                padding="10px 10px 10px 15px"
+                font-size="15px"
+                line-height="20px"
+                color="#A59EE5"
+            >Support</mj-text>
+            <mj-text
+                mj-class="bold white"
+                padding="15px"
+                font-size="30px"
+                line-height="20px"
+            >Social Media Boom!</mj-text>
+            <mj-divider  
+                align="left" 
+                width="125px"
+                padding="0 10px 10px 15px"
+                border-width="2px"
+                border-color="#5046C7" />
+            <mj-text
+                padding="10px 1px 10px 15px"
+                font-size="15px"
+                line-height="25px"
+                color="#CDCDCD"
+            >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </mj-text>
+            <mj-text
+                padding="10px 10px 10px 15px"
+                font-size="15px"
+                line-height="25px"
+                color="#CDCDCD"
+            >Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</mj-text>
+            <mj-spacer height="15px" />
+            <mj-button
+                mj-class="bg_blue white"
+                align="left"
+                padding="5px"
+                inner-padding="10px 20px"
+                border-radius="5px"
+                font-size="16px"
+                line-height="25px"
+            >Our Instagram</mj-button>
+            <mj-spacer height="25px" />
+        </mj-column>
+
+        <mj-column>
+            <mj-image 
+                src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/7471/main_image_1.png" 
+                alt="image with e-shop"
+                padding="5px" />
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

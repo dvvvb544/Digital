@@ -1,0 +1,81 @@
+<mj-wrapper 
+    full-width="full-width"
+    background-color="#FFFFFF"
+>
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="50px" />
+        </mj-column>    
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-text
+                mj-class="black bold center"
+                font-size="38px"
+                line-height="50px"
+            >99.50%</mj-text>
+            <mj-text
+                mj-class="black_2 center"
+                padding="5px"
+                font-size="16px"
+                line-height="25px"
+            >Positive Feedback</mj-text>
+            <mj-text
+                mj-class="center"
+                padding="5px"
+                font-size="16px"
+                line-height="18px"
+                color="#A9A9A9"
+            >From Our Clients</mj-text>
+        </mj-column>
+
+        <mj-column>
+            <mj-text
+                mj-class="black bold center"
+                font-size="38px"
+                line-height="50px"
+            >65k+</mj-text>
+            <mj-text
+                mj-class="black_2 center"
+                padding="5px"
+                font-size="16px"
+                line-height="25px"
+            >Instagram Followers</mj-text>
+            <mj-text
+                mj-class="center"
+                padding="5px"
+                font-size="16px"
+                line-height="18px"
+                color="#A9A9A9"
+            >Favourite App</mj-text>
+        </mj-column>
+
+        <mj-column>
+            <mj-text
+                mj-class="black bold center"
+                font-size="38px"
+                line-height="50px"
+            >1.350+</mj-text>
+            <mj-text
+                mj-class="black_2 center"
+                padding="5px"
+                font-size="16px"
+                line-height="25px"
+            >Shared Content</mj-text>
+            <mj-text
+                mj-class="center"
+                padding="5px"
+                font-size="16px"
+                line-height="18px"
+                color="#A9A9A9"
+            >Support From Followers</mj-text>
+        </mj-column>  
+    </mj-section>
+
+    <mj-section>
+        <mj-column>
+            <mj-spacer height="50px" />
+        </mj-column>    
+    </mj-section>
+</mj-wrapper>
